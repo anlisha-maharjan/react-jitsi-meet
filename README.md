@@ -1,3 +1,6 @@
+⚠️ [This project is no longer maintained](https://github.com/anlisha-maharjan/react-jitsi-meet/issues/1) ⚠️
+
+
 ## About 
 React application which uses IFrame API to embed Jitsi Meet functionality into the application to experience the full functionality of the globally distributed and highly available deployment available with meet.jit.si.
 ## Requirements
